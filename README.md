@@ -2,7 +2,7 @@
 
 ## Installation instructions 
 
-- Clone/fork
+- Clone
 
 - Go to the project root in terminal
 
