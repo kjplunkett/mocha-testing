@@ -1,4 +1,14 @@
-# Mocha Testing
+#Mocha Testing
+
+## Installation instructions 
+
+- Clone/fork
+
+- Go to the project root in terminal
+
+- `npm install`
+
+- `mocha`
 
 ## Unit Testing w/ Mocha and Chai:
 
