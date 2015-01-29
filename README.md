@@ -1,4 +1,4 @@
-#Mocha Testing
+# Mocha Testing
 
 ## Installation instructions 
 
@@ -10,7 +10,7 @@
 
 - `mocha`
 
-## Unit Testing w/ Mocha and Chai:
+## Unit Testing w/ Mocha and Chai
 
 - Standard built-in objects
 
