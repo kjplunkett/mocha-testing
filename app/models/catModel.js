@@ -7,6 +7,7 @@ var Backbone = require('backbone');
 var CatModel = Backbone.Model.extend({
 
 	defaults: {
+		id: 1,
 		name: 'Ralph',
 		furr: 'short',
 		age: 4
